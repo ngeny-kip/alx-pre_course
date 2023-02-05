@@ -1,2 +1,2 @@
 my first readme
-reane updated
+read updated
